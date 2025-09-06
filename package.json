@@ -1,8 +1,11 @@
 {
   "name": "estudia-ya-react",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "EstudiaYa - Plataforma educativa moderna con catálogo interactivo de cursos, testimonios dinámicos y herramientas de aprendizaje.",
+  "author": "Equipo EstudiaYa",
+  "keywords": ["educación", "cursos", "react", "plataforma-educativa", "estudiantes"],
   "scripts": {
     "dev": "vite",
     "build": "vite build",

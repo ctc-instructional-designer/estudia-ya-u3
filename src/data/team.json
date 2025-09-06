@@ -1,0 +1,77 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Dr. Elena Vásquez",
+      "role": "CEO y Fundadora",
+      "photo": "/images/team-1.jpg",
+      "bio": "Doctora en Educación con 15 años de experiencia en tecnología educativa. Apasionada por democratizar el acceso a una educación de calidad.",
+      "social": {
+        "linkedin": "#",
+        "twitter": "#",
+        "email": "elena@estudiaya.com"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Marco Silva",
+      "role": "CTO",
+      "photo": "/images/team-2.jpg",
+      "bio": "Ingeniero en Sistemas con experiencia en desarrollo de plataformas educativas. Especialista en algoritmos de personalización del aprendizaje.",
+      "social": {
+        "linkedin": "#",
+        "github": "#",
+        "email": "marco@estudiaya.com"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sofía Herrera",
+      "role": "Directora de Diseño UX/UI",
+      "photo": "/images/team-3.jpg",
+      "bio": "Diseñadora con enfoque en experiencias centradas en el usuario. Creadora de interfaces intuitivas que hacen del aprendizaje una experiencia placentera.",
+      "social": {
+        "linkedin": "#",
+        "dribbble": "#",
+        "email": "sofia@estudiaya.com"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Roberto Mendoza",
+      "role": "Director de Contenido Educativo",
+      "photo": "/images/team-4.jpg",
+      "bio": "Pedagogo especializado en metodologías de aprendizaje activo. Responsable de curar y crear contenido educativo de alta calidad.",
+      "social": {
+        "linkedin": "#",
+        "twitter": "#",
+        "email": "roberto@estudiaya.com"
+      }
+    }
+  ],
+  "company": {
+    "founded": "2022",
+    "location": "San José, Costa Rica",
+    "employees": "25+",
+    "mission": "Democratizar el acceso a herramientas de estudio inteligentes que potencien el éxito académico de estudiantes de todo el mundo.",
+    "vision": "Ser la plataforma educativa líder en América Latina, transformando la manera en que los estudiantes aprenden y alcanzan sus metas académicas.",
+    "values": [
+      {
+        "title": "Innovación",
+        "description": "Utilizamos tecnología de vanguardia para crear soluciones educativas revolucionarias."
+      },
+      {
+        "title": "Accesibilidad",
+        "description": "Creemos que toda persona merece acceso a herramientas de calidad para su educación."
+      },
+      {
+        "title": "Excelencia",
+        "description": "Nos comprometemos a ofrecer la mejor experiencia posible a nuestros usuarios."
+      },
+      {
+        "title": "Colaboración",
+        "description": "Fomentamos el trabajo en equipo y la construcción de comunidades de aprendizaje."
+      }
+    ]
+  }
+}

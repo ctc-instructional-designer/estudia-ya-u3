@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "María Elena Rodríguez",
+    "role": "Estudiante de Ingeniería",
+    "course": "Matemáticas Básicas",
+    "rating": 5,
+    "comment": "Este curso transformó completamente mi comprensión de las matemáticas. Los profesores explican de manera muy clara y los ejercicios son súper útiles.",
+    "image": "https://images.unsplash.com/photo-1494790108755-2616b612b2e5?w=100&h=100&fit=crop&crop=face",
+    "date": "2024-11-15",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "Carlos Mendoza",
+    "role": "Profesional en Tecnología",
+    "course": "Programación Web",
+    "rating": 5,
+    "comment": "Excelente curso para aprender desarrollo web desde cero. Pude conseguir trabajo como desarrollador después de completarlo.",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+    "date": "2024-10-28",
+    "verified": true
+  },
+  {
+    "id": 3,
+    "name": "Ana Sofia García",
+    "role": "Estudiante de Medicina",
+    "course": "Química Orgánica",
+    "rating": 5,
+    "comment": "La mejor plataforma para estudiar química orgánica. Las explicaciones son claras y hay muchos ejercicios para practicar.",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+    "date": "2024-11-02",
+    "verified": true
+  },
+  {
+    "id": 4,
+    "name": "Roberto Silva",
+    "role": "Emprendedor",
+    "course": "Finanzas Personales",
+    "rating": 4,
+    "comment": "Aprendí a manejar mejor mis finanzas personales y ahora puedo invertir de manera más inteligente. Muy recomendado.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+    "date": "2024-10-20",
+    "verified": true
+  },
+  {
+    "id": 5,
+    "name": "Laura Martínez",
+    "role": "Diseñadora Freelance",
+    "course": "Diseño Gráfico",
+    "rating": 5,
+    "comment": "Curso increíble para aprender diseño gráfico. Ahora trabajo como diseñadora freelance gracias a todo lo que aprendí aquí.",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&h=100&fit=crop&crop=face",
+    "date": "2024-11-08",
+    "verified": true
+  },
+  {
+    "id": 6,
+    "name": "David Herrera",
+    "role": "Estudiante de Física",
+    "course": "Física Moderna",
+    "rating": 5,
+    "comment": "Los conceptos de física cuántica nunca habían sido tan fáciles de entender. Excelente material y profesores.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
+    "date": "2024-09-15",
+    "verified": true
+  },
+  {
+    "id": 7,
+    "name": "Carmen López",
+    "role": "Maestra de Preparatoria",
+    "course": "Literatura Contemporánea",
+    "rating": 4,
+    "comment": "Como maestra, este curso me ayudó a mejorar mis clases de literatura. Los análisis son muy profundos y útiles.",
+    "image": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?w=100&h=100&fit=crop&crop=face",
+    "date": "2024-10-05",
+    "verified": true
+  },
+  {
+    "id": 8,
+    "name": "Miguel Torres",
+    "role": "Estudiante de Economía",
+    "course": "Economía Básica",
+    "rating": 5,
+    "comment": "Perfecto para entender los fundamentos de la economía. Me ayudó mucho en mis estudios universitarios.",
+    "image": "https://images.unsplash.com/photo-1519345182560-3f2917c472ef?w=100&h=100&fit=crop&crop=face",
+    "date": "2024-11-12",
+    "verified": true
+  }
+]

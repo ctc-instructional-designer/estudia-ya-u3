@@ -1,0 +1,78 @@
+{
+  "features": [
+    {
+      "id": 1,
+      "title": "Organización inteligente",
+      "description": "Planifica tu tiempo de estudio con nuestro algoritmo que se adapta a tu ritmo de aprendizaje.",
+      "icon": "🗂️",
+      "category": "productividad"
+    },
+    {
+      "id": 2,
+      "title": "Motivación constante",
+      "description": "Sistema de logros y recordatorios que te mantienen enfocado en tus objetivos académicos.",
+      "icon": "🏆",
+      "category": "motivacion"
+    },
+    {
+      "id": 3,
+      "title": "Seguimiento de progreso",
+      "description": "Visualiza tu avance y mejora continua con estadísticas detalladas de tu rendimiento.",
+      "icon": "📊",
+      "category": "analisis"
+    },
+    {
+      "id": 4,
+      "title": "Colaboración estudiantil",
+      "description": "Conecta con otros estudiantes, forma grupos de estudio y comparte conocimientos.",
+      "icon": "👥",
+      "category": "colaboracion"
+    },
+    {
+      "id": 5,
+      "title": "Recursos personalizados",
+      "description": "Accede a una biblioteca curada de materiales de estudio adaptados a tu nivel y estilo.",
+      "icon": "📖",
+      "category": "recursos"
+    },
+    {
+      "id": 6,
+      "title": "Recordatorios inteligentes",
+      "description": "Recibe notificaciones personalizadas que te ayudan a mantener el ritmo de estudio.",
+      "icon": "⏰",
+      "category": "productividad"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "María González",
+      "role": "Estudiante de Medicina",
+      "photo": "/images/testimonial-1.jpg",
+      "rating": 5,
+      "comment": "EstudiaYa cambió completamente mi forma de estudiar. Ahora puedo organizar mejor mi tiempo y he mejorado mis calificaciones notablemente."
+    },
+    {
+      "id": 2,
+      "name": "Carlos Rodríguez",
+      "role": "Estudiante de Ingeniería",
+      "photo": "/images/testimonial-2.jpg",
+      "rating": 5,
+      "comment": "La función de seguimiento de progreso me ayuda a identificar mis áreas débiles y enfocar mi tiempo de estudio donde más lo necesito."
+    },
+    {
+      "id": 3,
+      "name": "Ana Martínez",
+      "role": "Estudiante de Derecho",
+      "photo": "/images/testimonial-3.jpg",
+      "rating": 5,
+      "comment": "Los recordatorios inteligentes son increíbles. Nunca más he olvidado una fecha de examen o una tarea importante."
+    }
+  ],
+  "stats": {
+    "activeUsers": "50,000+",
+    "successRate": "95%",
+    "averageImprovement": "40%",
+    "coursesCompleted": "100,000+"
+  }
+}
